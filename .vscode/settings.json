@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "./.venv/Scripts/python.exe",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.runStartupCommands": [
+        "import numpy as np",
+        "import matplotlib.pyplot as plt",
+        "import pandas as pd",
+        "import seaborn as sns"
+    ]
+}
